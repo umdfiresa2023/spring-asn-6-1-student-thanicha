@@ -87,7 +87,7 @@ df0<-df2007 %>%
 #### Hint: Use the summary function.
 
 ```{r}
-summary(df0)
+
 ```
 
 #### Answer:
