@@ -35,7 +35,7 @@ names(df2007)
 
 #### Question 1: What three variables indicate the total amount of greenhouse gases and pollutants that were being emitted? (3 points)
 
-#### Answer:
+#### Answer: CO2..short.tns, SO2..tons., NOx..tons.
 
 #### Question 2: What variables are used to identify each electricity-generating unit? (2 points)
 
@@ -55,7 +55,7 @@ table(df2007$State)
 
 #### Question 4: Which state has the highest number of electricity-generating units? (1 point)
 
-#### Answer:
+#### Answer: TX
 
 ### Step 5
 
